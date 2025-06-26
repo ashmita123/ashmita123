@@ -8,7 +8,7 @@
 
 ### About Me
 
-I’m a Computer Science graduate from the University at Buffalo, focused on building scalable systems at the intersection of AI and blockchain. Currently at Dapi, I’m working on TaskNet — a secure, decentralized infrastructure for browser-based AI agents.
+I’m a Computer Science graduate from the University at Buffalo, focused on building scalable systems at the intersection of AI and blockchain. Currently at Dapi, I’m working on TaskNet, a secure, decentralized infrastructure for browser-based AI agents.
 
 I’ve contributed to:
 - Cryptographic systems with **zk-SNARKs**, **zkTLS**, and **TEE attestation**
