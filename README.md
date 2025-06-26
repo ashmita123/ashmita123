@@ -2,7 +2,7 @@
 
 **Software Engineer | AI/ML • Blockchain • Distributed Systems**
 
-[LinkedIn](https://linkedin.com/in/ashmitapandey) • [GitHub](https://github.com/ashmita123) • ashmita.pandey.np@gmail.com
+[LinkedIn](https://linkedin.com/in/ashmitapandey) • ashmita.pandey.np@gmail.com
 
 ---
 
